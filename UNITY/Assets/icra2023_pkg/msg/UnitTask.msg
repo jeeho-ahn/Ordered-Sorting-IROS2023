@@ -1,0 +1,3 @@
+std_msgs/Int32 robot_id
+std_msgs/String task_name
+icra2023_pkg/TargetMsg target

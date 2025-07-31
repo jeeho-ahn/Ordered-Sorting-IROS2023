@@ -1,0 +1,4 @@
+std_msgs/String cmd
+jeeho_sim/MobileRobotPose[] robots
+---
+std_msgs/Int32 result

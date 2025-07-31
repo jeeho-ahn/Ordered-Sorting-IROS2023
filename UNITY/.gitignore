@@ -1,0 +1,42 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# MemoryCaptures
+[Mm]emoryCaptures/
+
+# Unity-specific
+*.pidb
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb.meta
+*.csproj
+*.svd
+
+# Build output
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Dependency directories
+[Pp]ackages/
+
+# Large assets (customize as needed)
+*.wav
+*.mp4
+*.fbx
+*.blend
+
+# System files
+.DS_Store
+Thumbs.db

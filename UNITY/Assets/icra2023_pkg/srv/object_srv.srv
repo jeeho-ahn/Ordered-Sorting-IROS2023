@@ -1,0 +1,4 @@
+std_msgs/String cmd
+icra2023_pkg/IcraObject[] objects
+---
+std_msgs/Int32 result
