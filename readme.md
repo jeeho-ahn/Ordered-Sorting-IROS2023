@@ -42,4 +42,4 @@ View the [scheme PDF](docs/scheme.pdf) for a detailed version.
 
 ## Citation
 
-Ahn, Jeeho, ChangHwan Kim, and Changjoo Nam. "[Coordination of two robotic manipulators for object retrieval in clutter](https://ieeexplore.ieee.org/abstract/document/9811978)." 2022 International Conference on Robotics and Automation (ICRA). IEEE, 2022.
+Ahn, Jeeho, Seabin Lee, and Changjoo Nam. "Coordination of multiple mobile manipulators for ordered sorting of cluttered objects." 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2023.
