@@ -1,4 +1,4 @@
-# Coordination of two robotic manipulators for object retrieval in clutter
+# Coordination of multiple mobile manipulators for ordered sorting of cluttered objects
 
 More components are to be added.
 
