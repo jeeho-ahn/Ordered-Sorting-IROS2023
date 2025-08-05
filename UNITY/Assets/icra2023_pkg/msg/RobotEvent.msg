@@ -1,0 +1,3 @@
+std_msgs/Int32 robot_id
+std_msgs/String target_name
+std_msgs/String event_detail

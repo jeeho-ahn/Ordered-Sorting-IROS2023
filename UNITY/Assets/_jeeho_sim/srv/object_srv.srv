@@ -1,0 +1,4 @@
+std_msgs/String cmd
+jeeho_sim/IcraObject[] objects
+---
+std_msgs/Int32 result

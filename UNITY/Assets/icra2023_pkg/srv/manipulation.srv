@@ -1,0 +1,5 @@
+std_msgs/Int32 id
+std_msgs/String cmd
+geometry_msgs/Pose targetPose
+---
+std_msgs/Int32 result
