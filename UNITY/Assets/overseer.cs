@@ -1,3 +1,13 @@
+/*
+ * Overseer script
+ * Centralized framework of the simulator.
+ * Manages overall flow of the simulation, acts as the overseer of the tasks.
+ * It works with manager objects (manageScene, manageRobot) to handle detailed events.
+ * 
+ * Developed by Jeeho Ahn
+ * AIR Lab at Sogang University
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

@@ -1,3 +1,11 @@
+/*
+ * Robot manager script
+ * Responsible for handling robot-related events/tasks
+ * 
+ * Developed by Jeeho Ahn
+ * AIR Lab at Sogang University
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

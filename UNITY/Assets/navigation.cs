@@ -1,3 +1,12 @@
+/*
+ * Navigation script
+ * Mobile-robot-related functions
+ * Works with the native UNITY navigation
+ * 
+ * Developed by Jeeho Ahn
+ * AIR Lab at Sogang University
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

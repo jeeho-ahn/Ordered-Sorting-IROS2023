@@ -1,3 +1,12 @@
+/*
+ * Robot manipulation script
+ * Manipulator-related functions
+ * Works with a home-made gradient IK solver in the linked tool object
+ * 
+ * Developed by Jeeho Ahn
+ * AIR Lab at Sogang University
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

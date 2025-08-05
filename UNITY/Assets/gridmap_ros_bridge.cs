@@ -1,3 +1,12 @@
+/*
+ * Grid map generation for ROS
+ * Generates an occupancy grid map of the UNITY scene and hand it over to ROS.
+ * Triggered via ROS service
+ * 
+ * Developed by Jeeho Ahn
+ * AIR Lab at Sogang University
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

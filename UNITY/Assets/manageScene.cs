@@ -1,3 +1,12 @@
+/*
+ * Scene manager script
+ * Responsible for handling events associated with UNITY scene.
+ * 
+ * Developed by Jeeho Ahn
+ * AIR Lab at Sogang University
+ */
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
